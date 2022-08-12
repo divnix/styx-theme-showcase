@@ -21,7 +21,7 @@ The contents of `data.navbar` are automatically used to populate the navbar.
     pages.about
     (head pages.postsArchive)
     (pages.feed // { navbarTitle = "RSS"; })
-    { title = "Styx"; url = "https://styx-static.github.io/styx-site/"; }
+    { title = "Styx"; url = "https://divnix.github.io/styx-site/"; }
   ];
 ```
 

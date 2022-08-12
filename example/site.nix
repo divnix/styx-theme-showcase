@@ -63,7 +63,7 @@ rec {
       pages.about
       (head pages.postsArchive)
       (pages.feed // { navbarTitle = "RSS"; })
-      { title = "Styx"; url = "https://styx-static.github.io/styx-site/"; }
+      { title = "Styx"; url = "https://divnix.github.io/styx-site/"; }
     ];
 
     # posts taxonomies
